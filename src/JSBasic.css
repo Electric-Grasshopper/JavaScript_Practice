@@ -1,0 +1,36 @@
+.customBtn {
+    width           : 10rem;
+    height          : 2rem;
+    border-radius   : 5px;
+    font-weight     : bold;
+    margin          : 0.25rem;
+}
+
+.customBtn .redBtn {
+    background-color: red;
+}
+
+.customBtn .blueBtn {
+    background-color: blue;
+}
+
+.customBtn .greenBtn {
+    background-color: green;
+}
+
+.btnContainer {
+    padding      : 1em;
+    margin       : 1em;
+    border       : 1px solid brown;
+    width        : 30%;
+    border-radius: 25px;
+}
+
+.div-title {
+    color           : brown;
+    background-color: white;
+    width           : 5.5rem;
+    font-weight     : bold;
+    margin-left     : 2em;
+    margin-top      : -1.5em;
+}
